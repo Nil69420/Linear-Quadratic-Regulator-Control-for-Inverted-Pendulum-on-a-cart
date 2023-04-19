@@ -1,0 +1,1 @@
+# Linear-Quadratic-Regulator-Control-for-Inverted-Pendulum-on-a-cart
