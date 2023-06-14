@@ -6,13 +6,13 @@
 
 
 <p align="left">
-  <img width="460" height="300" src="images/cart.png">
+  <img width="460" height="300" src="images/cart.PNG">
 </p>
 
 * Cart Simulation and Balancing of Pendulum
 
 <p align="left">
-  <img width="460" height="300" src="images/pien.png">
+  <img width="460" height="300" src="images/pien.PNG">
 </p>
 
 * eig A tells us if the system is controllable or not
